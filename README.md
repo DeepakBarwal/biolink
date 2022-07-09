@@ -1,1 +1,1 @@
-# biolink.github.io
+# biolink
